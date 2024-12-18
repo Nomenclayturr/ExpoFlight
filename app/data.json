@@ -1,0 +1,15 @@
+[
+  {
+    "from": {
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "airline": "Iberia Express"
+    },
+    "to": {
+      "departAt": "13:00",
+      "arriveAt": "15:00",
+      "airline": "United Airlines"
+    },
+    "price": "£118"
+  }
+]
