@@ -11,5 +11,31 @@
       "airline": "United Airlines"
     },
     "price": "£118"
+  },
+  {
+    "from": {
+      "departAt": "08:30",
+      "arriveAt": "11:20",
+      "airline": "British Airways"
+    },
+    "to": {
+      "departAt": "14:30",
+      "arriveAt": "17:15",
+      "airline": "American Airlines"
+    },
+    "price": "£225"
+  },
+  {
+    "from": {
+      "departAt": "11:15",
+      "arriveAt": "13:45",
+      "airline": "Ryanair"
+    },
+    "to": {
+      "departAt": "16:00",
+      "arriveAt": "18:30",
+      "airline": "EasyJet"
+    },
+    "price": "£95"
   }
 ]
